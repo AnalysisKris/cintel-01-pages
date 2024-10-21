@@ -12,6 +12,9 @@ Images look like links except with an exclamation directly in front
 
 ![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
+Here's a picture of my family
+![My Family Image](myfam.jpg)
+
 ## Reminders
 
 Use a dash space for unordered lists
